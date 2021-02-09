@@ -1,0 +1,173 @@
+000 (011.000.000) 2021-02-02 15:31:10 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (011.000.000) 2021-02-02 15:31:10 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_11>
+...
+040 (011.000.000) 2021-02-02 15:31:10 Finished transferring input files
+...
+001 (011.000.000) 2021-02-02 15:31:11 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (011.000.000) 2021-02-02 15:31:11 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (011.000.000) 2021-02-02 15:31:11 Started transferring output files
+...
+040 (011.000.000) 2021-02-02 15:31:11 Finished transferring output files
+...
+005 (011.000.000) 2021-02-02 15:31:11 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	186  -  Run Bytes Sent By Job
+	589  -  Run Bytes Received By Job
+	186  -  Total Bytes Sent By Job
+	589  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       10        1   1726453 
+	   Memory (MB)          :        0        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:31:11Z.
+...
+000 (012.000.000) 2021-02-02 15:31:37 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (012.000.000) 2021-02-02 15:31:37 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_12>
+...
+040 (012.000.000) 2021-02-02 15:31:37 Finished transferring input files
+...
+001 (012.000.000) 2021-02-02 15:31:38 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (012.000.000) 2021-02-02 15:31:38 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (012.000.000) 2021-02-02 15:31:38 Started transferring output files
+...
+040 (012.000.000) 2021-02-02 15:31:38 Finished transferring output files
+...
+005 (012.000.000) 2021-02-02 15:31:38 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	37  -  Run Bytes Sent By Job
+	590  -  Run Bytes Received By Job
+	37  -  Total Bytes Sent By Job
+	590  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       10        1   1726453 
+	   Memory (MB)          :        0        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:31:38Z.
+...
+000 (013.000.000) 2021-02-02 15:36:37 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (013.000.000) 2021-02-02 15:36:37 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_13>
+...
+040 (013.000.000) 2021-02-02 15:36:37 Finished transferring input files
+...
+001 (013.000.000) 2021-02-02 15:36:38 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (013.000.000) 2021-02-02 15:36:38 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (013.000.000) 2021-02-02 15:36:39 Started transferring output files
+...
+040 (013.000.000) 2021-02-02 15:36:39 Finished transferring output files
+...
+005 (013.000.000) 2021-02-02 15:36:39 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	37  -  Run Bytes Sent By Job
+	590  -  Run Bytes Received By Job
+	37  -  Total Bytes Sent By Job
+	590  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       10        1   1726453 
+	   Memory (MB)          :        0        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:36:38Z.
+...
+009 (010.000.000) 2021-02-02 15:37:15 Job was aborted.
+	via condor_rm (by user yarisvthiel)
+...
+000 (014.000.000) 2021-02-02 15:37:23 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (014.000.000) 2021-02-02 15:37:23 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_14>
+...
+040 (014.000.000) 2021-02-02 15:37:23 Finished transferring input files
+...
+001 (014.000.000) 2021-02-02 15:37:24 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (014.000.000) 2021-02-02 15:37:24 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.000.000) 2021-02-02 15:37:24 Started transferring output files
+...
+040 (014.000.000) 2021-02-02 15:37:24 Finished transferring output files
+...
+005 (014.000.000) 2021-02-02 15:37:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	37  -  Run Bytes Sent By Job
+	590  -  Run Bytes Received By Job
+	37  -  Total Bytes Sent By Job
+	590  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       10        1   1726453 
+	   Memory (MB)          :        0        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:37:24Z.
+...
+000 (015.000.000) 2021-02-02 15:56:36 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (015.000.000) 2021-02-02 15:56:44 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_15>
+...
+040 (015.000.000) 2021-02-02 15:56:44 Finished transferring input files
+...
+001 (015.000.000) 2021-02-02 15:56:45 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (015.000.000) 2021-02-02 15:56:45 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (015.000.000) 2021-02-02 15:56:45 Started transferring output files
+...
+040 (015.000.000) 2021-02-02 15:56:45 Finished transferring output files
+...
+005 (015.000.000) 2021-02-02 15:56:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	37  -  Run Bytes Sent By Job
+	1024  -  Run Bytes Received By Job
+	37  -  Total Bytes Sent By Job
+	1024  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       10        1   1726453 
+	   Memory (MB)          :        0        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:56:45Z.
+...

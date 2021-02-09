@@ -1,0 +1,103 @@
+000 (004.000.000) 2021-02-02 15:00:11 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (004.000.000) 2021-02-02 15:00:11 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_6>
+...
+040 (004.000.000) 2021-02-02 15:00:11 Finished transferring input files
+...
+001 (004.000.000) 2021-02-02 15:00:12 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (004.000.000) 2021-02-02 15:00:21 Image size of job updated: 264
+	1  -  MemoryUsage of job (MB)
+	264  -  ResidentSetSize of job (KB)
+...
+006 (004.000.000) 2021-02-02 15:00:32 Image size of job updated: 6484
+	1  -  MemoryUsage of job (MB)
+	264  -  ResidentSetSize of job (KB)
+...
+040 (004.000.000) 2021-02-02 15:00:32 Started transferring output files
+...
+040 (004.000.000) 2021-02-02 15:00:32 Finished transferring output files
+...
+005 (004.000.000) 2021-02-02 15:00:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24  -  Run Bytes Sent By Job
+	92  -  Run Bytes Received By Job
+	24  -  Total Bytes Sent By Job
+	92  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   1726453 
+	   Memory (MB)          :        1        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:00:32Z.
+...
+000 (005.000.000) 2021-02-02 15:00:42 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (005.000.000) 2021-02-02 15:00:42 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_7>
+...
+040 (005.000.000) 2021-02-02 15:00:42 Finished transferring input files
+...
+001 (005.000.000) 2021-02-02 15:00:43 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (005.000.000) 2021-02-02 15:00:52 Image size of job updated: 264
+	1  -  MemoryUsage of job (MB)
+	264  -  ResidentSetSize of job (KB)
+...
+006 (005.000.000) 2021-02-02 15:01:03 Image size of job updated: 6484
+	1  -  MemoryUsage of job (MB)
+	264  -  ResidentSetSize of job (KB)
+...
+040 (005.000.000) 2021-02-02 15:01:03 Started transferring output files
+...
+040 (005.000.000) 2021-02-02 15:01:03 Finished transferring output files
+...
+005 (005.000.000) 2021-02-02 15:01:03 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24  -  Run Bytes Sent By Job
+	92  -  Run Bytes Received By Job
+	24  -  Total Bytes Sent By Job
+	92  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   1726453 
+	   Memory (MB)          :        1        1       983 
+
+	Job terminated of its own accord at 2021-02-02T14:01:03Z.
+...
+000 (006.000.000) 2021-02-02 15:01:09 Job submitted from host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=schedd_1544_a251>
+...
+040 (006.000.000) 2021-02-02 15:01:09 Started transferring input files
+	Transferring to host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=slot1_1878_f885_8>
+...
+040 (006.000.000) 2021-02-02 15:01:09 Finished transferring input files
+...
+001 (006.000.000) 2021-02-02 15:01:10 Job executing on host: <127.0.0.1:9618?addrs=127.0.0.1-9618&alias=YarisLaptop&noUDP&sock=startd_1544_a251>
+...
+006 (006.000.000) 2021-02-02 15:01:15 Image size of job updated: 6484
+	1  -  MemoryUsage of job (MB)
+	48  -  ResidentSetSize of job (KB)
+...
+004 (006.000.000) 2021-02-02 15:01:15 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	92  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   1726453 
+	   Memory (MB)          :        1        1       983 
+...
+009 (006.000.000) 2021-02-02 15:01:15 Job was aborted.
+	via condor_rm (by user yarisvthiel)
+...

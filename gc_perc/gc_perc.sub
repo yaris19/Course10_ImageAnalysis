@@ -1,0 +1,12 @@
+# Unix submit description file
+# gc_perc.sub -- simple sleep job
+
+Universe = vanilla
+Executable = /home/yarisvthiel/Documents/HAN/Course_10/ImageAnalysis/gc_perc/gc_perc.py
+Log = /home/yarisvthiel/Documents/HAN/Course_10/ImageAnalysis/gc_perc/gc_perc.log
+Output = /home/yarisvthiel/Documents/HAN/Course_10/ImageAnalysis/gc_perc/gc_perc.out
+Error = /home/yarisvthiel/Documents/HAN/Course_10/ImageAnalysis/gc_perc/gc_perc.err
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+Arguments = --fasta-file=/home/yarisvthiel/Documents/HAN/Course_10/ImageAnalysis/gc_perc/sequence.fasta
+Queue
