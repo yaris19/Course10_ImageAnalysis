@@ -26,8 +26,8 @@ def detect_face_cv2(img):
         rectangle(pixels, (x, y), (x2, y2), (0, 0, 255), 1)
 
     imshow("face detection", pixels)
-    if waitKey(1) == ord('q'):
-        destroyAllWindows()
+    waitKey(0)
+    destroyAllWindows()
 
 
 def detect_face_cv2_webcam():
@@ -124,10 +124,10 @@ def draw_image_with_boxes(img, result_list):
 # detect_face_cv2("images/test1.jpg")
 # detect_face_cv2("images/test2.jpg")
 # detect_face_cv2("images/yaris.jpg")
-#
+
 # detect_face_mtcnn("images/test1.jpg")
 # detect_face_mtcnn("images/test2.jpg")
 # detect_face_mtcnn("images/yaris.jpg")
 
-# detect_face_cv2_webcam()
-detect_face_mtcnn_webcam()
+detect_face_cv2_webcam()
+# detect_face_mtcnn_webcam()
